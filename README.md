@@ -10,6 +10,8 @@
   <img align="center" src="https://github-readme-stats-bruncky.vercel.app/api/top-langs/?username=bruncky&count_private=true&custom_title=Bruncky%27s%20Most%20Used%20Languages&hide=ruby&hide_border=true&layout=compact&theme=dracula" />
 </a>
 
+<br>
+
 Stats widgets can be found [here](https://github.com/anuraghazra/github-readme-stats).
 
 Currently, the tool is experiencing issues, so values may not be 100% accurate.
