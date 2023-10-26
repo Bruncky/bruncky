@@ -23,4 +23,4 @@
 
 Stats widgets can be found [here](https://github.com/anuraghazra/github-readme-stats).
 
-Currently, the tool is experiencing issues, so values may not be 100% accurate.
+Currently, the tool is experiencing issues, so values may not be 100% accurate. Company-internal contributions are also not shown due to the organization's privacy settings. If you want to learn more about me, feel free to reach out!
